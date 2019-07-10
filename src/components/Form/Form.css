@@ -1,0 +1,19 @@
+.titleInput,
+.bodyInput,
+.submitBtn {
+  border-radius: 5%;
+  font-size: 1.2em;
+  height: 50px;
+  margin: 2%;
+  padding: 0 1%;
+  width: 20%;
+}
+
+.submitBtn {
+  background-color: orangered;
+  outline: none;
+}
+
+.submitBtn:hover {
+  background-color: white;
+}
